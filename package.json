@@ -5,7 +5,7 @@
   "main": "meuk.js",
   "dependencies": {
     "three": "^0.108.0",
-    "three.js": "^0.73.2",
+    "three.js": "^0.77.1",
     "threejs-examples": "^60.0.0"
   },
   "devDependencies": {
