@@ -4,8 +4,8 @@
   "description": "",
   "main": "meuk.js",
   "dependencies": {
+    "three.js": "^0.73.2",
     "three": "^0.125.0",
-    "three.js": "^0.77.1",
     "threejs-examples": "^60.0.0"
   },
   "devDependencies": {
